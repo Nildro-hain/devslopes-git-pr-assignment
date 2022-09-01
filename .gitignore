@@ -1,0 +1,2 @@
+# keep environemental files out
+.env*
